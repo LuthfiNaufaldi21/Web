@@ -1,0 +1,52 @@
+
+body {
+    background: linear-gradient(#1c5337 0%, #3b995497 40%, #ffffff00 100%);
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.ProfileImages {
+    width: 200px;
+}
+.profile h2 {
+    color: rgba(255, 255, 255, 0.884);
+    font-style: italic;
+    transform: translateY(5px);
+}
+.profile h4 {
+    color: rgba(255, 255, 255, 0.884);
+    transform: translateY(2px);
+}
+.profile h6 {
+    color: rgba(255, 255, 255, 0.884);
+    font-style: italic;
+    transform: translateY(20px);
+}
+
+.footer {
+    background-color: #1c5337;
+    padding-bottom: 1px;
+}
+.contact a {
+    color: white;
+    font-size: 20px;
+}
+.Jadwal {
+    padding-top: 70px;
+}
+.Biodata {
+    background: linear-gradient(#ffffff 0%, #ffffff 40%, #1c533600 100%);
+    padding-bottom: 5px;
+    padding-top: 100px;
+}
+.row {
+    padding: 20px 10px;
+}
+.Jadwal {
+    background: linear-gradient(#1c533600 0%, #51ab69 40%, #1c5337 100%);
+    padding-bottom: 20px;
+}
